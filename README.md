@@ -36,6 +36,8 @@ Git          78.00 %   ███████████████████
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarlakshmanan&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
 
+<img alt="0xSebin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KumarLakshmanan&bg_color=red&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" />
+
 **Keep Support For my Projects**
 
 **Thank You**

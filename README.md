@@ -1,7 +1,7 @@
 ## Hi there, I'm <a href="https://kumarlakshmanan.github.io" target="_blank">Kumar Lakshmanan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kumarlakshmanan&label=Profile%20views&color=0e75b6&style=flat" alt="0xrasla" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kumarlakshmanan&label=Profile%20views&color=0e75b6&style=flat" alt="KumarLakshmanan" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xrasla" alt="0xrasla" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xrasla" alt="KumarLakshmanan" /></a> </p>
 
 ### Who Am I?
 

@@ -1,33 +1,34 @@
 ## Hi there, I'm <a href="https://kumarlakshmanan.github.io" target="_blank">Kumar Lakshmanan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kumarlakshmanan&label=Profile%20views&color=0e75b6&style=flat" alt="KumarLakshmanan" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xrasla" alt="KumarLakshmanan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KumarLakshmanan" alt="KumarLakshmanan" /></a> </p>
 
 ### Who Am I?
 
-  * My Name is Kumar Lakshmanan
+  * My Name is Lakshmanan. also known as Kumar
   * PHP and JavaScript lover
   * Now Working as a App Developer
   * 21 Years Young Programmer
   * Well Basement on Web Developing & Designing
+  * Currently Learning some stuffs about AI
 
 
 ```text
-HTML        100.00 %   ███████████████████████  
-CSS          91.00 %   █████████████████████    
-Bootstrap    97.00 %   ██████████████████████   
-Tailwind     76.00 %   █████████████████        
-JavaScript   88.00 %   ███████████████████      
-Jquery       83.00 %   ██████████████████       
-Php          79.00 %   █████████████████        
-MySql        92.00 %   ████████████████████     
-Python       63.00 %   ████████████████         
-Flutter      93.00 %   █████████████████████    
-React        76.00 %   ██████████████████       
-NextJS       41.00 %   ██████████               
-NodeJS       77.00 %   ██████████████████       
-Express      64.00 %   ████████████████         
-Git          78.00 %   ███████████████████      
+HTML        >>>>>>>>>>>>>>>>>>>>>>>  100%
+CSS         >>>>>>>>>>>>>>>>>>>>>>>  100%
+Bootstrap   >>>>>>>>>>>>>>>>>>>>>>-  97%
+JavaScript  >>>>>>>>>>>>>>>>>>>>>>-  95%
+Flutter     >>>>>>>>>>>>>>>>>>>>>--  93%
+MySQL       >>>>>>>>>>>>>>>>>>>>---  92%
+NodeJS      >>>>>>>>>>>>>>>>>>-----  77%
+React       >>>>>>>>>>>>>>>>>-----   90%
+Tailwind    >>>>>>>>>>>>>>>>>------  76%
+Git         >>>>>>>>>>>>>>>>>>>----  78%
+PHP         >>>>>>>>>>>>>>>>>>>----  95%
+Express     >>>>>>>>>>>>>>>>-------  64%
+Python      >>>>>>>>>>>>>>>>>>>----  85%
+Jquery      >>>>>>>>>>>>>>>>>>-----  83%
+NextJS      >>>>>>>>>>-------------  41%
 ```
 
 
@@ -45,7 +46,10 @@ Git          78.00 %   ███████████████████
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarlakshmanan&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </p>
 
-<img alt="0xSebin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KumarLakshmanan&bg_color=red&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" />
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KumarLakshmanan&" alt="KumarLakshmanan" /></p>
+
+<img alt="Lakshmanan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KumarLakshmanan&bg_color=red&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true" />
 
 **Keep Support For my Projects**
 

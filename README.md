@@ -6,10 +6,9 @@
 ### Who Am I?
 
   * My Name is Lakshmanan. also known as Kumar
-  * PHP and JavaScript lover
+  * PHP and Flutter lover
   * Now Working as a App Developer
   * 21 Years Young Programmer
-  * Well Basement on Web Developing & Designing
   * Currently Learning some stuffs about AI
 
 
